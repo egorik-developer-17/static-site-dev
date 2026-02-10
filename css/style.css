@@ -72,3 +72,12 @@ a {
   text-align: center;
   color: #64748b;
 }
+.skills a {
+  color: #e5e7eb;
+  display: block;
+
+}
+
+.skills a:hover {
+     color: #38bdf8;
+}
